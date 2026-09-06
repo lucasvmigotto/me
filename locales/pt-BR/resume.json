@@ -1,0 +1,259 @@
+{
+    "meta": {
+        "name": "Lucas Vidor Migotto",
+        "title": "Engenheiro de Software Sênior & Arquiteto de Nuvem",
+        "email": "lvmigotto1@gmail.com",
+        "phone": "+55 (11) 98315-6100",
+        "whatsapp": "https://wa.me/5511983156100",
+        "location": "São Paulo, Brasil",
+        "github": "https://github.com/lucasvmigotto",
+        "linkedin": "https://linkedin.com/in/lucasvmigotto",
+        "instagram": "https://instagram.com/lucasvmigotto",
+        "facebook": "https://facebook.com/lucasvmigotto"
+    },
+    "objectiveShort": "Quer construir aplicações com experiências de usuário eficientes e inteligentes?",
+    "objective": "Engenheiro de Software Sênior e Arquiteto de Nuvem com ampla experiência em projetar, implantar e manter aplicações cloud-native e plataformas web robustas. Expertise comprovada em infraestrutura multi-cloud (AWS, GCP, Azure), aliada a um forte compromisso com os princípios de DevOps, Infraestrutura como Código (IaC) e melhoria contínua. Desenvolvedor poliglota, altamente proficiente em Java (Spring), Python, JavaScript (Node.js, Bun, frontends modernos) e C# (.NET), além de bancos de dados SQL e NoSQL. Apaixonado por aplicar Data Science, Machine Learning e Deep Learning para otimizar fluxos de trabalho, modernizar sistemas legados e entregar soluções de software escaláveis e seguras.",
+    "experience": [
+        {
+            "company": "SESC-SP",
+            "location": "São Paulo",
+            "roles": [
+                {
+                    "title": "Analista de Tecnologia da Informação Sênior",
+                    "period": {
+                        "start": "2026-09",
+                        "end": null
+                    },
+                    "bullets": [
+                        "Desenvolve e mantém aplicações corporativas baseadas em Java, oferecendo suporte contínuo e melhorias a sistemas legados para garantir estabilidade e desempenho.",
+                        "Colabora com stakeholders e clientes no levantamento de requisitos e no design de novas soluções, traduzindo necessidades de negócio em arquitetura técnica escalável."
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "CRECI-SP",
+            "location": "São Paulo",
+            "roles": [
+                {
+                    "title": "Engenheiro e Arquiteto de Nuvem",
+                    "period": {
+                        "start": "2025-02",
+                        "end": "2026-08"
+                    },
+                    "bullets": [
+                        "Responsável pela administração e arquitetura de nuvem de ponta a ponta, projetando ambientes escaláveis e resilientes em AWS, Azure e GCP para dar suporte a cargas de trabalho corporativas.",
+                        "Arquitetou e implementou pipelines avançados de CI/CD, automatizando processos de build, teste e deploy para acelerar os ciclos de release e reduzir a intervenção manual.",
+                        "Projetou e provisionou infraestrutura de nuvem desde o início — redes, security groups, políticas de IAM e recursos computacionais — estabelecendo configurações de ambiente padronizadas e replicáveis para as equipes de engenharia."
+                    ]
+                },
+                {
+                    "title": "Desenvolvedor Fullstack Sênior",
+                    "period": {
+                        "start": "2023-05",
+                        "end": "2025-02"
+                    },
+                    "bullets": [
+                        "Liderou a idealização, o planejamento arquitetural e o desenvolvimento de ponta a ponta de novas aplicações corporativas e funcionalidades de alto impacto.",
+                        "Impulsionou a adoção da cultura e das práticas de DevOps, promovendo um ambiente de desenvolvimento sustentável, seguro e altamente eficiente.",
+                        "Conduziu pesquisas ativas em IA e aplicou insights de machine learning para otimizar fluxos de trabalho internos e ampliar as capacidades do sistema.",
+                        "Garantiu rigorosa conformidade com a legislação vigente do setor, mantendo padrões de arquitetura de software de excelência."
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "QuikDev",
+            "location": "São Paulo",
+            "roles": [
+                {
+                    "title": "Desenvolvedor Backend Pleno",
+                    "period": {
+                        "start": "2022-05",
+                        "end": "2022-11"
+                    },
+                    "bullets": [
+                        "Desenvolveu e implantou funcionalidades de backend de alta performance para plataformas web utilizando Node.js.",
+                        "Colaborou de perto com Tech Leads e Scrum Masters em ambiente Ágil, traduzindo expectativas dos clientes em incrementos escaláveis de produto durante sprints rápidas."
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "DG Solutions",
+            "location": "Curitiba",
+            "roles": [
+                {
+                    "title": "Desenvolvedor Fullstack Pleno",
+                    "period": {
+                        "start": "2021-03",
+                        "end": "2022-05"
+                    },
+                    "bullets": [
+                        "Arquitetou e entregou novas plataformas web, ao mesmo tempo em que executava manutenções críticas e refatorações em bases de código legadas.",
+                        "Desenvolveu microsserviços escaláveis em Python e integrou APIs de terceiros para expandir a funcionalidade da plataforma."
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "AMIX Serviços de Informática",
+            "location": "São Paulo",
+            "roles": [
+                {
+                    "title": "Desenvolvedor Fullstack Júnior",
+                    "period": {
+                        "start": "2018-02",
+                        "end": "2020-07"
+                    },
+                    "bullets": [
+                        "Desenvolveu e lançou o site corporativo, alinhando a implementação técnica às expectativas de design da diretoria.",
+                        "Participou de iniciativas de co-programação com Desenvolvedores Sêniores para acelerar a proficiência técnica e garantir a qualidade do código."
+                    ]
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "languages_frameworks": [
+            "Java/Spring",
+            "Python",
+            "TypeScript",
+            "C#/.NET",
+            "Node.js/Bun",
+            "JavaScript"
+        ],
+        "cloud_infrastructure": [
+            "AWS",
+            "GCP",
+            "Azure",
+            "Docker",
+            "Git",
+            "IaC",
+            "Kubernetes"
+        ],
+        "devops_architecture": [
+            "CI/CD",
+            "Microsserviços",
+            "Agile/Scrum",
+            "Arquitetura Cloud-native"
+        ],
+        "data_ai": [
+            "ML/DL",
+            "Data Science & Analytics",
+            "SQL Server",
+            "PostgreSQL",
+            "MongoDB"
+        ]
+    },
+    "certifications": [
+        {
+            "name": "AWS Cloud Practitioner",
+            "issuer": "AWS",
+            "issuerSvg": "/assets/certs/aws.svg",
+            "date": "2023-08",
+            "url": "https://www.credly.com/badges/672d6fae-b5e9-42b6-aa22-fe79a956935a/linked_in_profile"
+        },
+        {
+            "name": "AI-900 Azure AI Fundamentals",
+            "issuer": "Microsoft",
+            "issuerSvg": "/assets/certs/microsoft.svg",
+            "date": "2023-06",
+            "url": "https://learn.microsoft.com/en-us/users/lucasvmigotto/credentials/da7bcdf1a9941023"
+        },
+        {
+            "name": "AZ-900 Azure Fundamentals",
+            "issuer": "Microsoft",
+            "issuerSvg": "/assets/certs/microsoft.svg",
+            "date": "2023-09",
+            "url": "https://learn.microsoft.com/api/credentials/share/en-us/LucasVidorMigotto-4849/8F65413AA617A028"
+        }
+    ],
+    "education": [
+        {
+            "institution": "USP/ESALQ",
+            "degree": "MBA em Engenharia de Software",
+            "period": {
+                "start": "2026-10",
+                "end": null
+            },
+            "inProgress": true
+        },
+        {
+            "institution": "USP/ESALQ",
+            "degree": "MBA em Data Science and Analytics",
+            "period": {
+                "start": "2024-03",
+                "end": "2026-07"
+            },
+            "inProgress": false
+        },
+        {
+            "institution": "PUC-PR",
+            "degree": "Graduação em Inteligência Artificial Aplicada",
+            "period": {
+                "start": "2024-07",
+                "end": "2026-04"
+            },
+            "inProgress": false
+        },
+        {
+            "institution": "PUC-MG",
+            "degree": "Pós-graduação em IA & Machine Learning",
+            "period": {
+                "start": "2024-03",
+                "end": "2025-02"
+            },
+            "inProgress": false
+        },
+        {
+            "institution": "Faculdade Escola Paulista de Direito",
+            "degree": "Pós-graduação em Direito Digital",
+            "period": {
+                "start": "2022-11",
+                "end": "2023-02"
+            },
+            "inProgress": false
+        },
+        {
+            "institution": "FATEC Ipiranga",
+            "degree": "Análise e Desenvolvimento de Sistemas",
+            "period": {
+                "start": "2018-01",
+                "end": "2021-06"
+            },
+            "inProgress": false
+        },
+        {
+            "institution": "Escola SENAI de Informática",
+            "degree": "Curso Técnico em Tecnologia da Informação",
+            "period": {
+                "start": "2016-01",
+                "end": "2017-12"
+            },
+            "inProgress": false
+        }
+    ],
+    "languages": [
+        {
+            "language": "Português",
+            "level": "Nativo"
+        },
+        {
+            "language": "Inglês",
+            "level": "Avançado"
+        },
+        {
+            "language": "Francês",
+            "level": "Básico"
+        },
+        {
+            "language": "Alemão",
+            "level": "Básico"
+        },
+        {
+            "language": "Italiano",
+            "level": "Básico"
+        }
+    ]
+}

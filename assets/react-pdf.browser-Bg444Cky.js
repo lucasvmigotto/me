@@ -1,0 +1,1 @@
+import{s as e}from"./react-pdf.browser-fpA_OPjC.js";export{e as pdf};
